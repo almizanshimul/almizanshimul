@@ -36,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=almizanshimul&show_icons=true&locale=en" alt="almizanshimul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almizanshimul&" alt="almizanshimul" /></p>
+
+
+[![](https://visitcount.itsvg.in/api?id=shahidul7150&icon=0&color=8)](https://visitcount.itsvg.in)
